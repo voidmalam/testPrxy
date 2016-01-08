@@ -3,13 +3,13 @@ Proxy Server <br />
 2. Bind socket to a port <br /> 
 3. Set socket to listen <br /> 
 4. Repeatedly: <br /> 
-   a. Accept new connection <---------------- <br /> 
-   b. Communicate							              | <br /> 
-   c. Close the connection					        | <br /> 
-											                      | <br /> 
-Client										                  | <br /> 
-1. Create a socket  						            | <br /> 
-2. Establish connection -------------------- <br /> 
+&#160;&#160; a. Accept new connection  <br /> 
+&#160;&#160; b. Communicate  <br /> 
+&#160;&#160; c. Close the connection <br /> 
+<br /> 
+Client <br /> 
+1. Create a socket <br /> 
+2. Establish connection <br /> 
 3. Communicate <br /> 
 4. Close the connection <br /> 
 <br /> 
